@@ -1,0 +1,25 @@
+ID,Producto,Categoría,Precio,Cantidad,Ciudad,Fecha_Venta
+1,Laptop,Tecnología,800.0,5.0,Santiago,2025-01-01
+2,Mouse,Accesorios,25.0,20.0,Valparaíso,2025-01-02
+3,Teclado,Accesorios,45.0,10.0,Concepción,2025-01-03
+4,Monitor,Tecnología,200.0,7.0,La Serena,2025-01-04
+5,Impresora,Oficina,150.0,4.0,Rancagua,2025-01-05
+6,Tablet,Tecnología,300.0,9.0,Santiago,2025-01-06
+7,Celular,Tecnología,500.0,15.0,Antofagasta,2025-01-07
+8,Audífonos,Accesorios,75.0,12.0,Valdivia,2025-01-08
+9,Cámara,Fotografía,400.0,6.0,Iquique,2025-01-09
+10,Smartwatch,Accesorios,180.0,8.0,Temuco,2025-01-10
+11,Laptop,Tecnología,800.0,5.0,Santiago,2025-01-11
+12,Mouse,Accesorios,25.0,20.0,Valparaíso,2025-01-12
+13,Teclado,Accesorios,45.0,10.0,Concepción,2025-01-13
+14,Monitor,Tecnología,200.0,7.0,La Serena,2025-01-14
+15,Impresora,Oficina,150.0,4.0,Rancagua,2025-01-15
+16,Tablet,Tecnología,300.0,9.0,Santiago,2025-01-16
+17,Celular,Tecnología,500.0,15.0,Antofagasta,2025-01-17
+18,Audífonos,Accesorios,75.0,12.0,Valdivia,2025-01-18
+19,Cámara,Fotografía,,6.0,Iquique,2025-01-19
+20,Smartwatch,Accesorios,180.0,8.0,Temuco,2025-01-20
+21,Tablet,,250.0,,,
+22,,Tecnología,600.0,,Antofagasta,
+23,Laptop,,,7.0,Santiago,2025-01-24
+1,Laptop,Tecnología,800.0,5.0,Santiago,2025-01-01
